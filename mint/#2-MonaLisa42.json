@@ -1,0 +1,8 @@
+{
+  "name": "The Mona Lisa 42",
+  "description": "Leonardo da Vinci's 'Mona Lisa' in neon, her enigmatic smile intact as she holds a glowing armillary sphere.",
+  "image": "ipfs://bafybeidqyonujviwa2cyu7vtouckbicugy27i55s7t3jphkinvyrt22lvi",
+  "attributes": [
+    { "trait_type": "Artist", "value": "abelhadj" }
+  ]
+}

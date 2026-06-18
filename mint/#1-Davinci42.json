@@ -1,0 +1,8 @@
+{
+  "name": "Da Vinci 42",
+  "description": "Leonardo da Vinci's self-portrait reborn in neon, the master in circuit-woven robes holding his quill among glowing gears.",
+  "image": "ipfs://bafybeibhkgiuroedbwft76x2idqh5cbl5sbwssaxo5lv5d4f5jv6rzybna",
+  "attributes": [
+    { "trait_type": "Artist", "value": "abelhadj" }
+  ]
+}
