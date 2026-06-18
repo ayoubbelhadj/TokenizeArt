@@ -6,7 +6,7 @@ Minting happens through Remix, on the deployed contract. Only the contract owner
 1. In Remix → **Deployed Contracts**, expand `DavinciArt42`.
 2. Call `mintNFT`:
    - `to`: your wallet address (the owner)
-   - `uri`: `ipfs://bafkreibfcl32ryrijljxamybled5nqwtmq4xmkiz7xn7tmfofhfsrahzxu`
+   - `uri`: `ipfs://bafkreifnjqsre2kezpcdae6zll4eblbslrc536drhx2sfkwejjuxfjjd2q`
 3. Confirm in MetaMask. This mints token **#0** to your wallet.
 
 ## Verify

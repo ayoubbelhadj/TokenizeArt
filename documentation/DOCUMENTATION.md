@@ -23,7 +23,7 @@ Two distinct layers: the **contract owner** (the deployer — the only address a
 - Mint: see the `mint/` folder.
 
 ## Metadata & IPFS
-- Metadata CID: `bafkreibfcl32ryrijljxamybled5nqwtmq4xmkiz7xn7tmfofhfsrahzxu`
+- Metadata CID: `bafkreifnjqsre2kezpcdae6zll4eblbslrc536drhx2sfkwejjuxfjjd2q`
 - Artist: `abelhadj`; the work name contains 42.
 - Stored on IPFS (pinned with Pinata); referenced by the token's `tokenURI`.
 
